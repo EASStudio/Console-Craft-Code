@@ -4,11 +4,8 @@ This is my c++ remake of Minicraft. Console craft is a rogue-like Minecraft that
 # Downloading for Windows
 If you have visual studio installed, just open with Visual Studio. You can also clone the repositiory with ( https://github.com/EASStudio/Console-Craft-Code.git ). 
 
-# Downloading for Mac
- -Mac: Clone the repositiory with ( https://github.com/EASStudio/Console-Craft-Code.git ).
-
-# Downloading for Linux
- -Linux: Clone the repositiory with ( https://github.com/EASStudio/Console-Craft-Code.git ).
+# Downloading for Mac and Linux
+This project is not made with CMake or PreMake right now, so no Mac or Linux support.
  
 # Gameplay
 <img width="478" height="230" alt="Air Wizard" src="https://github.com/user-attachments/assets/a9caa7a0-d89c-4758-b440-144ed914d36d" />
